@@ -1,5 +1,7 @@
-Arranger
-========
+Source Code for _Separating Parts in Symbolic Polyphonic Music_
+===============================================================
+
+(Supplementary files for the ICML 2021 submission)
 
 Directory Structure
 -------------------
@@ -18,7 +20,7 @@ Directory Structure
 Prerequisites
 -------------
 
-You can install the dependencies by running `pipenv install` (recommended) or `python3 setup.py install -e .`. Python>3.6 is required.
+You can install the dependencies by running `pipenv install -e .` (recommended) or `python setup.py install -e .` (note the trailing dot). Python>3.6 is required.
 
 Data preparation
 ----------------
