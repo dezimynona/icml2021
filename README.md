@@ -53,3 +53,5 @@ Configuration
 -------------
 
 In `arranger/config.yaml`, you can configure the MIDI program numbers used for each track in the sample files generated. You can also configure the color of the generated sample piano roll visualization.
+
+
